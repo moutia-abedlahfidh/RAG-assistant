@@ -1,0 +1,8 @@
+Beispielshop Nordlicht – Versand
+Erfundene Testdaten für einen RAG-Prototyp.
+Lieferung ausschließlich nach Deutschland und Österreich.
+Deutschland: 2 bis 4 Werktage nach Zahlungseingang; Versandkosten 4,90 Euro, ab 50 Euro Warenwert kostenlos.
+Österreich: 4 bis 7 Werktage nach Zahlungseingang; Versandkosten immer 8,90 Euro.
+Werktage: Montag bis Freitag, ausgenommen gesetzliche Feiertage am Versandort.
+Kein Expressversand und keine Abholung vor Ort.
+Nach Übergabe an den Versanddienstleister wird ein Link zur Sendungsverfolgung per E-Mail versendet.

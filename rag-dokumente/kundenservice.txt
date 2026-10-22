@@ -1,0 +1,7 @@
+Beispielshop Nordlicht – Kundenservice
+Erfundene Testdaten für einen RAG-Prototyp.
+Kontakt: service@nordlicht.example (fiktive Beispieladresse). Kein telefonischer Support.
+Servicezeiten: Montag bis Freitag, 09:00 bis 17:00 Uhr, Europe/Berlin. An gesetzlichen Feiertagen in Berlin geschlossen.
+Antwort auf E-Mails normalerweise innerhalb von 2 Werktagen.
+Stornierung und Änderung der Lieferadresse nur vor Übergabe an den Versanddienstleister möglich. Bestellnummer und Änderungswunsch per E-Mail senden.
+Bei beschädigter Lieferung Bestellnummer und Fotos von Ware und Verpackung per E-Mail senden.

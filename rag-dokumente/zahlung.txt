@@ -1,0 +1,8 @@
+Beispielshop Nordlicht – Zahlung
+Erfundene Testdaten für einen RAG-Prototyp.
+Akzeptiert: Visa, Mastercard, PayPal und Vorkasse per Banküberweisung.
+Kein Rechnungskauf, keine Ratenzahlung und keine Kryptowährungen.
+Bei Vorkasse wird die Bankverbindung in der Bestätigungs-E-Mail mitgeteilt. Verwendungszweck ist die Bestellnummer.
+Zahlungseingang innerhalb von 7 Kalendertagen nach Bestellung, sonst automatische Stornierung.
+Alle Zahlungen erfolgen in Euro. Die Rechnung wird nach Versand als PDF per E-Mail versendet.
+Änderungen der Rechnungsadresse müssen vor Versand beim Kundenservice angefragt werden.

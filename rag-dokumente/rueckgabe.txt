@@ -1,0 +1,8 @@
+Beispielshop Nordlicht – Freiwillige Rückgabe
+Erfundene Testdaten, keine rechtliche Beratung.
+Zusätzlich zu gesetzlichen Rechten gilt ein freiwilliges Rückgabeangebot von 30 Kalendertagen ab Erhalt. Gesetzliche Rechte bleiben unberührt.
+Für dieses freiwillige Angebot muss die Ware unbenutzt und vollständig sein.
+Anmeldung per E-Mail an service@nordlicht.example mit Bestellnummer. Der Service sendet die Rücksendeanleitung.
+Bei mangelfreier Ware trägt der Kunde die Rücksendekosten. Bei beschädigter oder falsch gelieferter Ware stellt der Shop ein kostenloses Rücksendeetikett bereit.
+Erstattung beim freiwilligen Angebot innerhalb von 7 Werktagen nach Eingang und Prüfung auf das ursprüngliche Zahlungsmittel.
+Kein direkter Umtausch und keine Rückgabe in einer Filiale.
