@@ -1,0 +1,15 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    volumes:
+      - ollama_data:/root/.ollama
+
+  rag-agent:
+    build: .
+    volumes:
+      - ./rag-beispieldokumente:/app/rag-beispieldokumente:ro
+    ports:
+      - "8080:80"
+
+volumes:
+  ollama_data:
